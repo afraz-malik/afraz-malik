@@ -2,7 +2,7 @@
 
 I'm [Afraz](https://afraz-malik.github.io/), a passionate self-taught full stack web developer and a freelance software engineer from pakistan. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+i am also an open-source enthusiast and maintainer recently contributed to enterprise level project; <a href='https://www.npmjs.com/package/@antmedia/web_player'>Ant-Media WebPlayer</a>. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
 - 💼 any freelance work? do reach, [email](mailto:afrazmalik321@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
